@@ -1,0 +1,36 @@
+{
+   "15": {
+      "data": {
+         "creation_date": "2022-11-03",
+         "creation_time": "1667480307",
+         "dev": 0,
+         "info": {
+            "health": 50,
+            "money": 100
+         },
+         "last_login": "1667481500"
+      },
+      "id": 15,
+      "key": "PLACEHOLDER_KEY",
+      "logincount": 3,
+      "password": "",
+      "username": ""
+   },
+   "33": {
+      "data": {
+         "creation_date": "2022-11-03",
+         "creation_time": "1667479461",
+         "dev": 1,
+         "info": {
+            "health": 50,
+            "money": 100
+         },
+         "last_login": "1667479542"
+      },
+      "id": 33,
+      "key": "PLACEHOLDER_KEY",
+      "logincount": 1,
+      "password": "eme4tupsu",
+      "username": "Minejerik"
+   }
+}
